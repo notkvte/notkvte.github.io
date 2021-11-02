@@ -8,11 +8,15 @@ p{
 }
 
 img{
-    width: 150px;
+    width: 200px;
+    position: absolute;
+    left: 250px;
+    background-color: rgb(165, 236, 201);
 }
 
 div.pic1{
-    background-color: rgb(165, 236, 201);
+    height: 200px;
+    padding-bottom: 30px;
 }
 
 h1{
