@@ -10,8 +10,10 @@ p{
 img{
     width: 200px;
     position: absolute;
-    left: 250px;
+    left: 150px;
     background-color: rgb(165, 236, 201);
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 div.pic1{
