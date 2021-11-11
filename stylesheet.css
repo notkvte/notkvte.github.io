@@ -7,38 +7,27 @@ body{
     color: white;
 }
 
-.logo{
-    position: absolute;
-    font-family: monospace;
-    font-weight: bolder;
-    color: white;
-    letter-spacing: 2px;
-    font-size: 15px;
-    margin-left: 10px;
-    margin-top: 620px;
-}
-
 .nav{
     position: absolute;
-    height: 250px;
+    height: 300px;
     width: 200px;
     background-color: rgba(0, 0, 0, 0.486);
     border-radius: 20px;
-    margin-top: 210px;
-    margin-left: 80px;
+    margin-top: 190px;
+    margin-left: 120px;
 }
 
 h1{
     color:rgb(69, 223, 69);
     position:absolute;
     padding: 20px;
-    padding-top: 10px;
-    padding-left: 23px;
+    padding-top: 20px;
+    padding-left: 45px;
 }
 
 table{
    position: absolute;
-   margin-top: 95px;
+   margin-top: 140px;
    margin-left: 30px;
    border-bottom: 1px solid lightgray;
 }
@@ -60,15 +49,15 @@ a:hover{
 }
 
 img{
-    width:150px;
+    width:200px;
 }
 
 .grid{
     position: absolute;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 450px;
     padding: 25px;
-    height: 500px;
+    height: 540px;
     width: 980px;
     overflow: scroll;
     scrollbar-width: none;
@@ -98,7 +87,7 @@ img{
 #browse{
     padding-left: 15px;
     background-color: black;
-    width: 135px;
+    width: 185px;
     font-size: 18px;
     margin-top: -14px;
 }
